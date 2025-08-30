@@ -19,14 +19,6 @@ My aim is to become a full-stack developer who can design scalable and efficient
 
 ---
 
-## 🚀 Projects I’m Working On
-I am focused on building projects that align with my vision and skills:  
-- [Project Name 1](GitHub-Link) – Short description of what it does.  
-- [Project Name 2](GitHub-Link) – Short description of what it does.  
-- [Project Name 3](GitHub-Link) – Short description of what it does.  
-
-> I love to collaborate on projects that challenge my skills and expand my knowledge.
-
 ---
 
 ## 🌱 Currently Learning
@@ -42,10 +34,7 @@ I am focused on building projects that align with my vision and skills:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 ---
 
